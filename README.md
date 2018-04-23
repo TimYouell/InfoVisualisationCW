@@ -45,7 +45,10 @@ Broadly, there are two main styles of project:
 2. Multiple coordinated views using well-known visualization techniques, perhaps customized a little for your problem. Typically, the interface will have nice filtering and interactive selection. The emphasis in this type of project is to create a sound, functional system that is helpful for data analysis and understanding. It is important to have coordinated views that work well together and provide different perspectives on the data.
 
 Required:
-A copy of your visualisation, submitted via Blackboard in a single zip file.
-A flyer (1-2 pages, A4) summarising your visualisation, to be distributed to the audience, A presentation or demonstration of your visualisation (15 minutes) followed by questions.
+1. A flyer (1-2 pages, A4) summarising your visualisation, to be distributed to the audience:
+The flyer should contain a summary of the visualisation, its main features and the intended audience, and a discussion of the design principles and the design decisions you've made.
+2. A presentation or demonstration of your visualisation (15 minutes) followed by questions:
+Your visualisation should contain a description of the data sources you've used (with appropriate links/references), together with a discussion of their limitations and any noteworthy features and particular issues you've encountered (compatibility of measurement bases, ...).
+3) A copy of my visualisations, submitted via Blackboard in a single zip file.
   
   
