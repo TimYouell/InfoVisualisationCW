@@ -25,6 +25,12 @@ Learning outcomes:
 - Understand the appropriate use of the techniques with which they are familiar and when to apply them to a variety of data sets
 - Develop static and dynamic visualisations
 
+Assessment criteria:
+1. The main emphasis in marking will be on the demonstrated ability to analyse a visualisation problem, 
+2. identifying the technical issues that must be addressed, 
+3. the current state of knowledge, 
+4. relevant technologies that are currently available or are in development.
+
 ￼￼￼￼Description of assignment:
 The aim of this project is to apply your knowledge of information visualisation to create an effective and compelling visualisation of a data set of your choice. You will need to select a data set that people will find interesting and intriguing, or – better - a data set with a clearly identified set of people who care deeply about that data. The choice of a good data set is important to your project.
 A good project should consist of visualization designs and software that implements the designs. Interaction is key in information visualization, and it is difficult to understand the interaction issues in your project without a running system. User testing and evaluation is outside the scope of the project. You are free to choose any software development toolkit and graphics/visualization support library that you want to help build your system. (You cannot build on top of something that constructs a visualization for you, however, such as Tableau.) Your visualisation should be web-deployable (with an informative or a monitoring focus), or for a situated display.
@@ -36,7 +42,7 @@ to get feedback on your design,
 3. Give a demonstration of your project,
 4. Submit a copy of the final system.
   
-Hints for a successful project
+Hints for a successful project:
 It is extremely important to select an interesting problem with data that some group of people will care deeply about. Consider combining different data sets to produce a new composite data set of special interest. Allow plenty of time to focus on data acquisition. If you do not have your data nailed down by the prototype display session then you will be in deep trouble.
 Most of the really successful projects are in one of two styles, the single innovative visual representation or the multi-view, effective existing technique coordinated system.
 
